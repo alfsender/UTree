@@ -1,0 +1,26 @@
+*.log
+.idea
+.nodemonignore
+.sass-cache
+.slugignore
+.vagrant
+coverage/client/e2e/
+coverage/client/unit/
+coverage/server/coverage.html
+node_modules
+public/assets/css/custom.css
+public/assets/plugins/angular/
+test/results/
+PDF/*
+
+#Mac OS X
+.DS_Store
+
+#Sublime Text
+*.sublime-project
+*.sublime-workspace
+npm-shrinkwrap.json
+
+public/assets/cssmin/custom.min.css
+
+public/minjs/clientApp.min.js

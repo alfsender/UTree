@@ -1,0 +1,17 @@
+{
+  "name": "Y",
+  "version": "1.0.0",
+  "directory": "public/lib",
+  "authors": [
+    "tapan-d-thakkar <tapan.d.thakkar@gmail.com>"
+  ],
+  "description": "UTree dependencies declaration",
+  "dependencies": {
+      "angular": "1.2.19",
+      "d3": "latest"
+  },
+  "main":"",
+  "ignore": [
+
+  ]
+}
